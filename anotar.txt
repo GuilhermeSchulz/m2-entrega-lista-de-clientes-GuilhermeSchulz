@@ -1,0 +1,22 @@
+
+EDITAR CLIENTE
+
+select vai criar um option para cada foreach element do arr (GET)
+sendo value = index
+innertext = nome
+adicionar id
+no submit vai dar get com id
+infos do form.value = element.name e etc
+ao dar atualizar dados, precisa passar o id no final da url, 
+as infos pelo body , e da patch pelo id 
+
+
+
+
+DELETE
+
+select vai criar um option para cada element do arr por foreach(GET)
+ao selecionar e apertar deletar
+envia um delete para a api, com o id no final da url
+
+
